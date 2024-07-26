@@ -1,0 +1,66 @@
+#headshot{
+    /* border-radius: 10%; */
+    height: 300px;
+}
+.card-cover{
+    background-size: cover;
+    background-position: center;
+}
+
+.hero{
+
+    background-color: #86B6F6;
+
+}
+ .aboutMeContainer{
+    background-color: #B4D4FF;
+ }
+.lead{
+    color: black;
+}
+h1{
+    color: white;
+} 
+
+.homeImage{
+    border-radius: 20px;
+}
+.feature{
+    background-color: #EEF5FF;
+}
+ .aboutMe{
+    border-radius: 20px;
+ }
+.carousel {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    justify-content: start;
+}
+.carousel-inner {
+    max-height: 800px;
+    overflow: hidden;
+    border-radius: 30px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 20px;
+}
+.interests{
+    background-color: #86B6F6;
+}
+.footer{
+    background-color: #176B87;
+}
+.projectBorder{
+    border-bottom: 2px solid #176B87;
+
+}
+.footerBorder{
+    border-bottom: 2px solid #86B6F6;
+}
